@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bizita</string>
+    <string name="title_activity_profile_details">ProfileDetailsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="names">Name    : %1$s</string>
+    <string name="catg">Category    : %1$s</string>
+    <string name="addres">Address     : %1$s</string>
+    <string name="descp">Description    : %1$s</string>
+    <string name="contact">Contact      : %1$s</string>
+    <string name="empcode">Employee Code     : %1$s</string>
+    <string name="id">ID   : %1$s</string>
+    <string name="failed_to_load_retry">Failed to load retry</string>
+</resources>
