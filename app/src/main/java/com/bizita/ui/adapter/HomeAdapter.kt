@@ -9,9 +9,11 @@ import android.view.ViewGroup
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.appcompat.widget.AppCompatImageView
+import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
 import com.bizita.R
 import com.bizita.data.Succes
+import com.bizita.databinding.ItemDisplayBinding
 import com.bizita.ui.ProfileDetailsActivity
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.DataSource
@@ -21,21 +23,20 @@ import com.bumptech.glide.request.target.Target
 import com.newsfeed.utils.isNetworkAvailable
 import com.newsfeed.utils.toast
 
-class HomeAdapter  (var sources: ArrayList<Succes>, val mContext: Context) :
+class HomeAdapter  (val mContext: Context) :
     RecyclerView.Adapter<HomeAdapter.MyViewHolder>() {
 
+    private lateinit var sources: ArrayList<Succes> ;
+
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MyViewHolder {
-        val rootView: View = LayoutInflater.from(parent.context)
-            .inflate(R.layout.item_display, parent, false)
-        return MyViewHolder(rootView)
+        val binding: ItemDisplayBinding = DataBindingUtil.inflate(LayoutInflater.from(parent.context), R.layout.item_display, parent, false)
+
+        return MyViewHolder(binding)
     }
 
     override fun onBindViewHolder(holder: MyViewHolder, position: Int) {
         val datas = sources.get(position)
-
-        holder.titleText.text = datas.name
-        holder.category.text = datas.category
-        holder.address.text = datas.address
+        holder.bind(sources.get(position))
 
         onImageRetry(datas.image,holder.progress_bar,holder.retry,holder.image)
 
@@ -58,6 +59,11 @@ class HomeAdapter  (var sources: ArrayList<Succes>, val mContext: Context) :
                 toast("No Internet Connection",mContext)
             }
         }
+    }
+
+    fun setAdapterList(list: ArrayList<Succes> ){
+        this.sources = list
+        notifyDataSetChanged()
     }
 
     private fun onImageRetry(image: String, progressBar: ProgressBar, retry: TextView, image1: AppCompatImageView
@@ -92,26 +98,21 @@ class HomeAdapter  (var sources: ArrayList<Succes>, val mContext: Context) :
         return position
     }
 
-    inner class MyViewHolder(itemView: View?) :
-        RecyclerView.ViewHolder(itemView!!) {
+    inner class MyViewHolder(val binding: ItemDisplayBinding) :
+        RecyclerView.ViewHolder(binding.root) {
 
-        val titleText : TextView
-            get() = itemView.findViewById(R.id.name)
         val retry : TextView
-            get() = itemView.findViewById(R.id.retry)
-        val category : TextView
-            get() = itemView.findViewById(R.id.category)
-        val address : TextView
-            get() = itemView.findViewById(R.id.address)
+            get() = binding.root.findViewById(R.id.retry)
         val image : AppCompatImageView
-            get() = itemView.findViewById(R.id.image)
+            get() = binding.root.findViewById(R.id.image)
         val progress_bar : ProgressBar
-            get() = itemView.findViewById(R.id.progress_bar)
+            get() = binding.root.findViewById(R.id.progress_bar)
         val noImage : TextView
-            get() = itemView.findViewById(R.id.noImage)
-    }
+            get() = binding.root.findViewById(R.id.noImage)
 
-    init {
-        this.sources = sources
+        fun bind(data: Succes) {
+            binding.model = data
+            binding.executePendingBindings()
+        }
     }
 }

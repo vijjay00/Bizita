@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.1] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\b266ea56edcbd7712a473a6c0474e492\databinding-adapters-3.6.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.1] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\8d3a6a39ae8f0601a2530ac3bc3816a4\databinding-runtime-3.6.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3617665fc9c65869caa876cc9ba14c07\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\153c093b872ce71fbc12cfe7b8584cdf\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\f589436cc6d2d3aa453fa746b841180b\jetified-core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5b3513ce104faf73b3e128e38dcec649\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3eb89887c7b14e8057bd6b4911459dee\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-alpha03] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\8687ffeb1f05f4230b6b31d6a8f44f1c\jetified-lifecycle-runtime-ktx-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:3.6.1] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\70d70dfd5537bfe5802ec4d785dfc0e9\jetified-viewbinding-3.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\0f0ee9b539a4ddf3c5501f1297fe48d1\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\90e95ae178c01e0d8f5a510b58e2f12b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\e0cd9d8518f78e1e92c10cce5af7e3de\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3364c0076121ca226708cea00d8f55b1\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5b2c738c812dcf60f247fece4d5f4648\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\c797c5dad992f33bda9f438e082adff8\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\4cca671b7ccfbc355cfd12f4fa9992cb\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\f49ded26df53219c272a87cbc2f50891\fragment-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\355329e1d75cf2b50caa92a880ba1371\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\ff3e53d7157bfe7edb545406844dc59e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\ba1332034f6ca59f6c7f0e21d0862568\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\54e7dcbe7dd73a114f8ef2b5e53ea730\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\0104f53c6fb9a5cb7a10e28b2076c65a\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\c5e815d94244b986c6dba708e7360fde\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\2b401ba0dba0725cf902eb7802c17335\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha03] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5d467b0480af4184be60a8f5c7554541\lifecycle-runtime-2.3.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\af8bcb344eff79f5cbd18225e2799f6f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\6f5287565a806b803419f0dd0a256a0d\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\e4fd96490b955a9eeeed1bd2c6075de3\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\d74c6b37acd91d107b94b9f7e7018d53\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\a7537106ad6dfcf1cdfdec59ee6f89b3\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\dc9d2156d066cde755ee8681a2f12f1d\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\d2badded549c6ca5eb1c4a1f03e7f10c\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\089bea6e90eeda5bd4baddbf74631eb4\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\fe598bc8cc86a05228785bfc8c505019\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\0a44e47edb93965f4e88d797d70bdb84\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\7f300c6e2f69950a30d3e558337e3075\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\73d84d8e85265818820ea67c1d15c38d\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:4:5-25
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:8:5-27:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3617665fc9c65869caa876cc9ba14c07\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3617665fc9c65869caa876cc9ba14c07\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5b3513ce104faf73b3e128e38dcec649\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5b3513ce104faf73b3e128e38dcec649\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3eb89887c7b14e8057bd6b4911459dee\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3eb89887c7b14e8057bd6b4911459dee\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\c5e815d94244b986c6dba708e7360fde\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\c5e815d94244b986c6dba708e7360fde\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\af8bcb344eff79f5cbd18225e2799f6f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\af8bcb344eff79f5cbd18225e2799f6f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\d74c6b37acd91d107b94b9f7e7018d53\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\d74c6b37acd91d107b94b9f7e7018d53\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\c5e815d94244b986c6dba708e7360fde\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:16:9-28
+	android:icon
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:14:9-44
+activity#com.bizita.ui.ProfileDetailsActivity
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:17:9-62
+	android:name
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:17:19-60
+activity#com.bizita.ui.HomeActivity
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:18:9-53
+	android:name
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:18:19-50
+activity#com.bizita.SplashActivity
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:19:9-26:20
+	android:theme
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:20:13-80
+	android:name
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:19:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.1] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\b266ea56edcbd7712a473a6c0474e492\databinding-adapters-3.6.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.1] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\b266ea56edcbd7712a473a6c0474e492\databinding-adapters-3.6.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.1] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\8d3a6a39ae8f0601a2530ac3bc3816a4\databinding-runtime-3.6.1\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.1] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\8d3a6a39ae8f0601a2530ac3bc3816a4\databinding-runtime-3.6.1\AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3617665fc9c65869caa876cc9ba14c07\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3617665fc9c65869caa876cc9ba14c07\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\153c093b872ce71fbc12cfe7b8584cdf\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\153c093b872ce71fbc12cfe7b8584cdf\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\f589436cc6d2d3aa453fa746b841180b\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\f589436cc6d2d3aa453fa746b841180b\jetified-core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5b3513ce104faf73b3e128e38dcec649\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5b3513ce104faf73b3e128e38dcec649\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3eb89887c7b14e8057bd6b4911459dee\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3eb89887c7b14e8057bd6b4911459dee\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-alpha03] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\8687ffeb1f05f4230b6b31d6a8f44f1c\jetified-lifecycle-runtime-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0-alpha03] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\8687ffeb1f05f4230b6b31d6a8f44f1c\jetified-lifecycle-runtime-ktx-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:3.6.1] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\70d70dfd5537bfe5802ec4d785dfc0e9\jetified-viewbinding-3.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.1] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\70d70dfd5537bfe5802ec4d785dfc0e9\jetified-viewbinding-3.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\0f0ee9b539a4ddf3c5501f1297fe48d1\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\0f0ee9b539a4ddf3c5501f1297fe48d1\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\90e95ae178c01e0d8f5a510b58e2f12b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\90e95ae178c01e0d8f5a510b58e2f12b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\e0cd9d8518f78e1e92c10cce5af7e3de\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\e0cd9d8518f78e1e92c10cce5af7e3de\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3364c0076121ca226708cea00d8f55b1\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\3364c0076121ca226708cea00d8f55b1\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5b2c738c812dcf60f247fece4d5f4648\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5b2c738c812dcf60f247fece4d5f4648\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\c797c5dad992f33bda9f438e082adff8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\c797c5dad992f33bda9f438e082adff8\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\4cca671b7ccfbc355cfd12f4fa9992cb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\4cca671b7ccfbc355cfd12f4fa9992cb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\f49ded26df53219c272a87cbc2f50891\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\f49ded26df53219c272a87cbc2f50891\fragment-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\355329e1d75cf2b50caa92a880ba1371\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\355329e1d75cf2b50caa92a880ba1371\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\ff3e53d7157bfe7edb545406844dc59e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\ff3e53d7157bfe7edb545406844dc59e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\ba1332034f6ca59f6c7f0e21d0862568\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\ba1332034f6ca59f6c7f0e21d0862568\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\54e7dcbe7dd73a114f8ef2b5e53ea730\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\54e7dcbe7dd73a114f8ef2b5e53ea730\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\0104f53c6fb9a5cb7a10e28b2076c65a\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\0104f53c6fb9a5cb7a10e28b2076c65a\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\c5e815d94244b986c6dba708e7360fde\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\c5e815d94244b986c6dba708e7360fde\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\2b401ba0dba0725cf902eb7802c17335\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\2b401ba0dba0725cf902eb7802c17335\jetified-lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha03] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5d467b0480af4184be60a8f5c7554541\lifecycle-runtime-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-alpha03] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\5d467b0480af4184be60a8f5c7554541\lifecycle-runtime-2.3.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\af8bcb344eff79f5cbd18225e2799f6f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\af8bcb344eff79f5cbd18225e2799f6f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\6f5287565a806b803419f0dd0a256a0d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\6f5287565a806b803419f0dd0a256a0d\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\e4fd96490b955a9eeeed1bd2c6075de3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\e4fd96490b955a9eeeed1bd2c6075de3\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\d74c6b37acd91d107b94b9f7e7018d53\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\d74c6b37acd91d107b94b9f7e7018d53\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\a7537106ad6dfcf1cdfdec59ee6f89b3\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\a7537106ad6dfcf1cdfdec59ee6f89b3\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\dc9d2156d066cde755ee8681a2f12f1d\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\dc9d2156d066cde755ee8681a2f12f1d\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\d2badded549c6ca5eb1c4a1f03e7f10c\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\d2badded549c6ca5eb1c4a1f03e7f10c\jetified-lifecycle-viewmodel-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\089bea6e90eeda5bd4baddbf74631eb4\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\089bea6e90eeda5bd4baddbf74631eb4\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\fe598bc8cc86a05228785bfc8c505019\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\fe598bc8cc86a05228785bfc8c505019\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\0a44e47edb93965f4e88d797d70bdb84\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\0a44e47edb93965f4e88d797d70bdb84\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\7f300c6e2f69950a30d3e558337e3075\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\7f300c6e2f69950a30d3e558337e3075\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\73d84d8e85265818820ea67c1d15c38d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\73d84d8e85265818820ea67c1d15c38d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+		ADDED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+		INJECTED from V:\projects\Bizita\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\I AM BENSPARK\.gradle\caches\transforms-2\files-2.1\1f2b495452651f6ecec2a7cd2955ea0e\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79

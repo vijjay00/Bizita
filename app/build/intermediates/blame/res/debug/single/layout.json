@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "V:\\projects\\Bizita\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "V:\\projects\\Bizita\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "V:\\projects\\Bizita\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_display.xml",
+        "source": "V:\\projects\\Bizita\\app\\src\\main\\res\\layout\\item_display.xml"
+    }
+]
